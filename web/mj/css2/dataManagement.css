@@ -1,0 +1,52 @@
+.datetimepicker{
+    top:80px!important;
+}
+.SEL{
+    display: inline-block;
+    width:200px;
+}
+.SELs{
+    display: inline-block;
+}
+.dropdown {
+    width: 200px!important;
+}
+.sjgl{
+    width: 95%;
+    margin: 0 auto;
+}
+#myTabContent {
+    /* display: inline-block; */
+    width: 95%;
+    
+    margin:0 auto;
+/*            position: absolute;
+    left: 15%;
+    bottom: 0;
+    right: 0;
+    top: 0;*/
+}
+.acnav {
+    width: 13%;
+    /* display: inline-block */
+    border-right: 1px solid #ccc;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #13abc4;
+}
+/*.acnav li {
+    width: 100% !important;
+    border-bottom: 2px solid #03ffee;
+    margin-bottom: 8px;
+}*/
+#LookAbnormalDiv{
+    display: none;
+}
+.acnav li a{
+    color:#000;
+}
+#home .SEL{
+    margin-right: 2px;
+}

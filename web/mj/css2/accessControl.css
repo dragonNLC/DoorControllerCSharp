@@ -1,0 +1,83 @@
+.m {
+    border: 1px solid #E3E9EF;
+    display: inline-block;
+    text-align: center;
+    border-top-color: #ABADB3;
+}
+
+.ip {
+    height: 25px;
+    width: 30px;
+    border: none;
+}
+.bootstrap-table{
+    margin-top: 10px;
+}
+/* input{
+    width: 200px!important;
+} */
+input.ip{
+    width:50px!important;
+}
+.bootstrap-select > .dropdown-toggle{
+    width: 200px!important;
+}
+.addIp {
+    margin-left: 15px;
+    display: inline-block;
+}
+
+#home {
+    width: 95%;
+    margin: 10px auto
+}
+
+a {
+    text-decoration: none;
+    color: #66666B;
+}
+
+a span {
+    font-size: 12px;
+}
+
+.menjinFrom {
+    /* width: 95%; */
+    margin: 0 auto;
+}
+
+tr {
+    height: 50px;
+}
+
+.table {
+    width: 95%;
+    margin: 0 auto;
+}
+
+#EditDoorDiv,
+#LookDoorDiv,
+#EditGroupDiv {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1060;
+    display: none;
+    background: rgb(26, 26, 26, 0.5);
+}
+
+.addTqxPersonnel {
+    margin: 50px auto 0;
+    width: 760px;
+
+}
+.time1{
+    width: 90px!important;
+    background-color: #fff;
+    box-shadow: none;
+    border: 1px solid #ccc;
+    padding: 5px 7px;
+    border-radius: 3px;
+}

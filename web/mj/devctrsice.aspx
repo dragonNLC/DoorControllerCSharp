@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="devctrsice.aspx.cs" Inherits="web.mj.devctrsice" %>

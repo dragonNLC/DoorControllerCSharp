@@ -1,0 +1,52 @@
+.add-personnel{
+    width: 95%;
+    margin: 10px auto 0;
+}
+.form-control{
+    width: 200px!important;
+    display: inline-block;
+    margin-left: 10px;
+}
+.SEL{
+    width: 200px;
+    display: inline-block!important;
+}
+.text-justify{float:left;text-align:justify;text-justify:inter-word;text-align-last: justify;text-justify:inter-ideograph;width:80px;height:39px;line-height: 39px;}
+/* .input-group{
+    margin-top: 10px;
+} */
+#EdituserDiv,#AdduserDiv{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1060;
+    display: none;
+    background: rgb(26, 26, 26,0.5);
+}
+#myTabContent{
+    width: 95%;
+    margin:0 auto;
+}
+#AdduserDiv{
+    z-index: 1061;
+}
+.editpersonnel,.addTqxPersonnel{
+    width: 760px;
+    margin: 30px auto 0;
+
+}
+.form-group{
+    width: 330px;
+}
+#divLoad{
+    margin: 10px 0 0 50px;
+}
+.personalRight{
+    margin-left: 50px;
+}
+.bootstrap-select > .dropdown-toggle{
+    width: 200px!important;
+    margin-left: 10px;
+}
